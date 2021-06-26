@@ -1,0 +1,29 @@
+h1{
+	font-size: 32px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-weight: 800;
+	text-align: center;
+	color:blue;
+	text-decoration: none;
+}
+
+h2{
+	font-family: 'Times New Roman', Times, serif;
+	text-align: center;
+	font-size: 24px;
+	color:yellowgreen;
+}
+body{
+	font-size: 22px;
+	background-color: white;
+	color: black;
+	text-align: center;
+	font-family: monospace;
+}
+a:hover{
+	color: red;
+	padding: 10px;
+	text-decoration: none;
+	font-family: cursive;
+	
+}
