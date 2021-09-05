@@ -15,10 +15,10 @@ h2{
 }
 body{
 	font-size: 22px;
-	background-color: white;
+	background-color: lightgray;
 	color: black;
 	text-align: center;
-	font-family: monospace;
+	font-family: 'Courier New', Courier, monospace;
 }
 a:hover{
 	color: red;
